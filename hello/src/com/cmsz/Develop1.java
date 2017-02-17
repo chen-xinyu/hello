@@ -5,6 +5,6 @@ public class Develop1 {
 		
 		System.out.println("Develop1");
 		System.out.println("develop2");
-		System.out.println("ni hao");
+		System.out.println("hello world");
 	}
 }
